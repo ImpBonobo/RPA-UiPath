@@ -1,0 +1,11 @@
+C:\Users\eric\source\repos\MyApplication\MyApplication\bin\Debug\MyApplication.exe.config
+C:\Users\eric\source\repos\MyApplication\MyApplication\bin\Debug\MyApplication.exe
+C:\Users\eric\source\repos\MyApplication\MyApplication\bin\Debug\MyApplication.pdb
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csprojAssemblyReference.cache
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.Properties.Resources.resources
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.GenerateResource.cache
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.exe
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.pdb
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MainProgramm.View.resources
+C:\Users\eric\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.ResolveComReference.cache
